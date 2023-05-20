@@ -4,4 +4,5 @@ import ChatComponent from "./lib/components/chat/ChatComponent.svelte";
 
 <main>
     <ChatComponent />
+
 </main>
