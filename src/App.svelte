@@ -1,6 +1,7 @@
 <script lang="ts">
-    import {} from "./lib/utils/store";
+import ChatComponent from "./lib/components/chat/ChatComponent.svelte";
 </script>
 
 <main>
+    <ChatComponent />
 </main>
